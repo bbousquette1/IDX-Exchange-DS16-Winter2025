@@ -1,7 +1,7 @@
 # IDX-Exchange-DS16-Winter2025
 DS16 IDX Exchange Project Repository
 
-Members: Claire Wang, Michelle Chen, Annabelle Zhang, Jeffery Zhang
+Members: Claire Wang, Michelle Chen, Annabelle Zhang, Brandon Bousquette
 
 01/25/2025 Meeting Minutes:
 Each member explores data, for next meeting present our findings and identify things of interest
